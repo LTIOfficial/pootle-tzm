@@ -22,3 +22,6 @@
 
 * http://pootle.thezeitgeistmovement.com:3003/accounts/login/
 (create new account to test features from member POV)
+
+* http://pootle.thezeitgeistmovement.com:3003/admin/general.html
+(edit P2 settings)
