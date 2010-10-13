@@ -27,4 +27,5 @@
 (edit P2 settings)
 
 * http://pootle.thezeitgeistmovement.com:3003/notices (customize general RSS news in the portal)
+
 * http://pootle.thezeitgeistmovement.com:3003/es/notices (RSS news for Spanish language, can be used by the coordinator to announce things)
