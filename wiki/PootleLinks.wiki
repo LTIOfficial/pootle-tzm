@@ -21,3 +21,4 @@
 * http://pootle.thezeitgeistmovement.com:3003/home/
 
 * http://pootle.thezeitgeistmovement.com:3003/accounts/login/
+(create new account to test features from member POV)
