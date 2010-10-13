@@ -1,0 +1,19 @@
+#labels Featured
+#List of resource links to track as needed
+
+= Pad Links =
+* http://piratepad.net/fixingPootle1
+* http://piratepad.net/PootleBugIssues
+
+
+= Pootle Translators =
+* http://pootle.thezeitgeistmovement.com:3002/translators.html
+* http://pootle.thezeitgeistmovement.com:3002/translators.admin.html
+
+
+= Pootle 1.x =
+* http://pootle.thezeitgeistmovement.com:3002/home/
+
+
+= Pootle 2.x =
+* http://pootle.thezeitgeistmovement.com:3003/home/
