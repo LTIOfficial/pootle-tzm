@@ -1,0 +1,29 @@
+#List of resource links to track as needed
+
+# Pad Links #
+**http://piratepad.net/fixingPootle1**
+
+**http://piratepad.net/PootleBugIssues**
+
+
+# Pootle Translators #
+**http://pootle.thezeitgeistmovement.com:3002/translators.html**
+
+**http://pootle.thezeitgeistmovement.com:3002/translators.admin.html**
+
+
+# Pootle 1.x #
+**http://pootle.thezeitgeistmovement.com:3002/home/**
+
+
+# Pootle 2.x #
+**http://pootle.thezeitgeistmovement.com:3003/home/**
+
+**http://pootle.thezeitgeistmovement.com:3003/accounts/login/
+(create new account to test features from member POV)**
+
+**http://pootle.thezeitgeistmovement.com:3003/admin/general.html
+(edit P2 settings)**
+
+**http://pootle.thezeitgeistmovement.com:3003/notices (customize general RSS news in the portal)**
+

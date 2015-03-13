@@ -1,0 +1,1 @@
+All tasks/bugs refering to pootle in TZM
